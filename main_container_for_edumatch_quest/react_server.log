@@ -58,3 +58,18 @@ ERROR in ./src/components/GameBoard.js 8:0-38
 Module not found: Error: Can't resolve './ScoreBoard' in '/home/kavia/workspace/code-generation/edumatch-quest-95064-95072/main_container_for_edumatch_quest/src/components'
 
 webpack compiled with 3 errors and 1 warning
+Compiling...
+Failed to compile.
+
+Module not found: Error: Can't resolve './DropZone' in '/home/kavia/workspace/code-generation/edumatch-quest-95064-95072/main_container_for_edumatch_quest/src/components'
+WARNING in [eslint] 
+src/hooks/useGameState.js
+  Line 52:6:  React Hook useEffect has a missing dependency: 'timerInterval'. Either include it or remove the dependency array  react-hooks/exhaustive-deps
+
+ERROR in ./src/components/GameBoard.js 7:0-34
+Module not found: Error: Can't resolve './DropZone' in '/home/kavia/workspace/code-generation/edumatch-quest-95064-95072/main_container_for_edumatch_quest/src/components'
+
+ERROR in ./src/components/GameBoard.js 8:0-38
+Module not found: Error: Can't resolve './ScoreBoard' in '/home/kavia/workspace/code-generation/edumatch-quest-95064-95072/main_container_for_edumatch_quest/src/components'
+
+webpack compiled with 2 errors and 1 warning
