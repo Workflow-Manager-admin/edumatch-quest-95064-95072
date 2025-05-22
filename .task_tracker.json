@@ -1,0 +1,5 @@
+{
+  "task_description": "{'component_name': 'Main Container for EduMatch Quest', 'description': 'Primary container for EduMatch Quest implementation: An interactive educational game that helps users learn vocabulary, geography, or general knowledge through an engaging drag-and-drop matching interface. Players match words to their correct definitions or countries to their corresponding capitals.', 'framework': 'react', 'platform': 'web'}",
+  "tasks": {},
+  "next_task_id": 1
+}
