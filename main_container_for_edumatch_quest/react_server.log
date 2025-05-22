@@ -85,3 +85,18 @@ ERROR in ./src/components/GameBoard.js 8:0-38
 Module not found: Error: Can't resolve './ScoreBoard' in '/home/kavia/workspace/code-generation/edumatch-quest-95064-95072/main_container_for_edumatch_quest/src/components'
 
 webpack compiled with 1 error and 1 warning
+Compiling...
+Compiled with warnings.
+
+[eslint] 
+src/hooks/useGameState.js
+  Line 52:6:  React Hook useEffect has a missing dependency: 'timerInterval'. Either include it or remove the dependency array  react-hooks/exhaustive-deps
+
+Search for the keywords to learn more about each warning.
+To ignore, add // eslint-disable-next-line to the line before.
+
+WARNING in [eslint] 
+src/hooks/useGameState.js
+  Line 52:6:  React Hook useEffect has a missing dependency: 'timerInterval'. Either include it or remove the dependency array  react-hooks/exhaustive-deps
+
+webpack compiled with 1 warning
