@@ -22,3 +22,21 @@ Compiling...
 Compiled successfully!
 webpack compiled successfully
 Compiling...
+Failed to compile.
+
+Module not found: Error: Can't resolve './components/GameBoard' in '/home/kavia/workspace/code-generation/edumatch-quest-95064-95072/main_container_for_edumatch_quest/src'
+ERROR in ./src/App.js 9:0-47
+Module not found: Error: Can't resolve './components/GameBoard' in '/home/kavia/workspace/code-generation/edumatch-quest-95064-95072/main_container_for_edumatch_quest/src'
+
+ERROR in ./src/App.js 10:0-89
+Module not found: Error: Can't resolve './data/sampleGames' in '/home/kavia/workspace/code-generation/edumatch-quest-95064-95072/main_container_for_edumatch_quest/src'
+
+webpack compiled with 2 errors
+Compiling...
+Failed to compile.
+
+Module not found: Error: Can't resolve './components/GameBoard' in '/home/kavia/workspace/code-generation/edumatch-quest-95064-95072/main_container_for_edumatch_quest/src'
+ERROR in ./src/App.js 9:0-47
+Module not found: Error: Can't resolve './components/GameBoard' in '/home/kavia/workspace/code-generation/edumatch-quest-95064-95072/main_container_for_edumatch_quest/src'
+
+webpack compiled with 1 error
